@@ -68,7 +68,7 @@ matrix unos(matrix m1)
 		m1.mat[i] = new float[m1.n];
 	std::cout << "Unesite elemente matrice" << std::endl;
 	for (i = 0; i < m1.m; i++)
-	{
+	{0
 		for (j = 0; j < m1.n; j++)
 
 		{
